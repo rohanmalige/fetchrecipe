@@ -100,5 +100,3 @@ Another slightly weak point is the manual image cache. It works in most cases (w
   2. **Memory Cache Layer:** In addition to disk caching, add an in‐memory `Dictionary<String, UIImage>` to avoid multiple disk reads during a short session.  
   3. **Pagination/Infinite Scroll:** If the list were very long, implement pagination or lazy loading.  
   4. **Localization:** Currently, all text is hardcoded in English. A next step would be to add localization support.
-
-Thanks for reading—hope you enjoy poking around the code! If you have any questions or need clarification on any chunk of logic, let me know.
