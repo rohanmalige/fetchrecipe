@@ -6,16 +6,16 @@ I built a simple SwiftUI recipe app that fetches a list of recipes from a JSON e
 Below are a few quick screenshots to illustrate:
 
 1. **Home Screen with Search Suggestions**  
-   ![Search Suggestions](Searchfeature.png)
+   ![Search Suggestions](./Searchfeature.png)
 
 2. **Recipe List**  
-   ![Recipe List](recipeView.png)
+   ![Recipe List](./recipeView.png)
 
 3. **Favourites Screen**  
-   ![Loading Screen](favourites.png)
+   ![Loading Screen](./favourites.png)
 
 4. **Detail Screen**  
-   ![Detail Screen](Detailedrecipe.png)
+   ![Detail Screen](./Detailedrecipe.png)
 
 *(If you run the app locally, you’ll see smooth gradient animations and quick image loading after the first fetch.)*
 
