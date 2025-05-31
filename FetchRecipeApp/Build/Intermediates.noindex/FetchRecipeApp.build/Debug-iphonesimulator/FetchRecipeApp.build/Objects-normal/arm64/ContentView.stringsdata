@@ -1,0 +1,112 @@
+{
+  "source": "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/FetchRecipeApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Details",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 223
+        }
+      },
+      {
+        "comment": "",
+        "key": "View Recipe",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Watch Video",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "LoadingRecipesHidden",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 279
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading Recipes…",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 281
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading Recipes…",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading Recipes…",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recipes",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 384
+        }
+      },
+      {
+        "comment": "",
+        "key": "No recipes available.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 333
+        }
+      },
+      {
+        "comment": "",
+        "key": "No cuisines found",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 319
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search cuisine",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorites",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 374
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Favorites",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 409
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeApp-master.dia",
+    "emit-module-dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeApp-master.swiftdeps"
+  },
+  "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/FetchRecipeApp/ContentView.swift" : {
+    "const-values" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/FetchRecipeApp/FetchRecipeAppApp.swift" : {
+    "const-values" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.swiftconstvalues",
+    "dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.d",
+    "diagnostics" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.dia",
+    "index-unit-output-path" : "/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.o",
+    "llvm-bc" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.bc",
+    "object" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.o",
+    "swift-dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp.swiftdeps",
+    "swiftmodule" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/FetchRecipeAppApp~partial.swiftmodule"
+  },
+  "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/FetchRecipeApp/Item.swift" : {
+    "const-values" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/rohan/ecs193a_b/fetchrecipeapp/fetchrecipe/FetchRecipeApp/Build/Intermediates.noindex/FetchRecipeApp.build/Debug-iphonesimulator/FetchRecipeApp.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  }
+}
