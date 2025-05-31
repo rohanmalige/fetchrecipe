@@ -6,7 +6,7 @@ I built a simple SwiftUI recipe app that fetches a list of recipes from a JSON e
 Below are a few quick screenshots to illustrate:
 
 1. **Home Screen with Search Suggestions**  
-   ![Search Suggestions](./Searchfeature.png)
+   ![Search Suggestions](./screenshots/Searchfeature.png)
 
 2. **Recipe List**  
    ![Recipe List](./recipeView.png)
